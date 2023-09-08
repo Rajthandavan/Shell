@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Your GitHub personal access token
-GITHUB_TOKEN="YOUR_PERSONAL_ACCESS_TOKEN"
+GITHUB_TOKEN="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"
 
 # Base URL for the GitHub API
 GITHUB_API="https://api.github.com"
